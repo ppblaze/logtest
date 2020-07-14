@@ -1,7 +1,6 @@
 name: environment-test
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - boto3
   - s3fs
