@@ -9,3 +9,4 @@ dependencies:
   - ipywidgets
   - matplotlib
   - ipython
+  - voila
